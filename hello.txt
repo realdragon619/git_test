@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "hello Github!"
+=======
+"hello Github"
+>>>>>>> 70b681081bae2d18bc69ca098f4670da63e6c3ff
